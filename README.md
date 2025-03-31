@@ -29,8 +29,8 @@ Follow these steps to install and run the project locally:
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/worldwise-travel.git
-cd worldwise-travel
+git clone https://github.com/Diwahar9417/Worldwise.git
+cd Worldwise
 ```
 
 ### 2. Install Dependencies
